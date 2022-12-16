@@ -1,2 +1,1 @@
-# open_webcam_on_event_using_jquery_and_laravel
-taking picture on jquery event using jquery and laravel
+Here we will open webcam on jquery event and campture image and save it using laravel and jquery
